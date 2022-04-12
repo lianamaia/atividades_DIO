@@ -1,0 +1,1 @@
+O projeto Netflix clone é educacional, foi desenvolvido como parte integrante do Bootcamp DIO
